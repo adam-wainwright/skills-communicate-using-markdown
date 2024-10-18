@@ -2,3 +2,4 @@
 This is an example page using markdown for headings. 
 ## Header 2
 This is the paragraph under a h2.
+![Image of a puppy](https://i.natgeofe.com/n/4f5aaece-3300-41a4-b2a8-ed2708a0a27c/domestic-dog_thumb_square.jpg)
