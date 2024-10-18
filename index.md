@@ -6,6 +6,12 @@ This is the paragraph under a h2.
 ```
 Example code block
 ```
+Now here's a task list. 
+
+- [x] sunshine
+- [x] moonlight
+- [ ] boogie
+
 
 # Header 1
 Image
